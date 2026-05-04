@@ -10,3 +10,11 @@ docker images
 docker rmi ID des Image (wie oben beim Container gleich machen.)
 ### 5. Kontrolle
 nochmals docker ps -a und docker images es sollten die gelöschten Elemente nicht mehr angezeigt werden.
+
+## Docker Hub Image
+Das Docker Image zu diesem Projekt wurde auf Docker Hub veröffentlicht.
+Link zum Docker Hub Repository:
+[(https://hub.docker.com/repository/docker/senseibu/pythonwebserver/general)]
+Das Image kann mit folgendem Befehl heruntergeladen werden:
+```bash
+docker pull senseibu/pythonwebserver:latest
