@@ -20,5 +20,6 @@ Das Image kann mit folgendem Befehl heruntergeladen werden:
 docker pull senseibu/pythonwebserver:latest
 ```
 ## Container Performance
-
+```docker stats``` um die Performance anzuzeigen
+```docker stats ID``` um bestmmte Container anzuzeigen
 
