@@ -14,7 +14,7 @@ nochmals docker ps -a und docker images es sollten die gelöschten Elemente nich
 ## Docker Hub Image
 Das Docker Image zu diesem Projekt wurde auf Docker Hub veröffentlicht.
 Link zum Docker Hub Repository:
-[(https://hub.docker.com/repository/docker/senseibu/pythonwebserver/general)]
+https://hub.docker.com/repository/docker/senseibu/pythonwebserver/general
 Das Image kann mit folgendem Befehl heruntergeladen werden:
 ```bash
 docker pull senseibu/pythonwebserver:latest
